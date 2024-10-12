@@ -91,7 +91,7 @@ app.get('/', (req, res) => {
     res.sendFile(imagePath);
 });
 app.listen(port, () => {
-    console.log(`listening to Inazuma Eleven Cheats ${port}`);
+    console.log(`listening to Inazuma Eleven Cheats`);
 });
 
 printWatermark();
