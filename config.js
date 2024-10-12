@@ -27,7 +27,7 @@ module.exports = {
   embedColor: "#1db954",
   musicardTheme:"themes16", //Goes from themes1 to themes19
   activityName: "Inazuma Eleven Cheats", // This is bot status Write Anything here 
-  activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
+  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/43VDd3UTrM",
   CheckmarkIcon: "https://cdn.discordapp.com/emojis/819446784647757834.gif",
   MusicIcon:"https://cdn.discordapp.com/emojis/763415718271385610.gif",
