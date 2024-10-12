@@ -107,7 +107,7 @@ async function play(client, interaction) {
                 iconURL: config.CheckmarkIcon,
                 url: config.SupportServer
             })
-            .setDescription('**➡️ Your request has been successfully processed.**\n**➡️ Please use buttons to control playback**')
+            .setDescription('**Your request has been successfully processed.**\n**Please use buttons to control playback**')
             .setFooter({ text: '🎶 Enjoy your music!' });
 
         await interaction.followUp({ embeds: [randomEmbed] });
